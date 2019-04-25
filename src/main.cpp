@@ -222,7 +222,7 @@ void setup()
     sensors.begin();     //dallas start
   //  initOTA ();
     initAWS();
-    Debug.println("Setup Ok 2 w ");
+    Debug.println("Setup Ok");
 }
 // the loop function runs over and over again forever
 void loop()
