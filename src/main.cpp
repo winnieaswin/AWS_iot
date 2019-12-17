@@ -43,7 +43,7 @@ const int ledPin = 2;
 
 AWS_IOT hornbill;   // AWS_IOT instance
 
-char WIFI_SSID[]="Aswin";
+char WIFI_SSID[]="ASWIN_2.4G_";
 char WIFI_PASSWORD[]="Pi@Riya*1";
 char HOST_ADDRESS[]="a1gcytxbxjm16j-ats.iot.eu-west-1.amazonaws.com";
 char CLIENT_ID[]= "ESP32_02";
